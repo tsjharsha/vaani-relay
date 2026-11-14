@@ -1,0 +1,11 @@
+timestamp,model,question,status,first_token_ms,total_ms,tokens_in,tokens_out,error
+2026-11-13T22:08:17.018790+00:00,openai/gpt-oss-20b,"In one sentence, what is self-attention?",ok,1001.26,1036.82,93,113,
+2026-11-13T22:08:20.181024+00:00,openai/gpt-oss-20b,What is a Transformer encoder?,ok,1120.14,1161.67,89,96,
+2026-11-13T22:08:23.126001+00:00,openai/gpt-oss-20b,What is positional encoding?,ok,920.82,943.8,88,99,
+2026-11-13T22:08:26.194974+00:00,openai/gpt-oss-20b,Explain multi-head attention briefly.,ok,1024.87,1068.57,89,131,
+2026-11-13T22:08:29.099460+00:00,openai/gpt-oss-20b,What is an autoregressive model?,ok,900.85,903.66,90,69,
+2026-11-13T22:08:32.123911+00:00,openai/gpt-oss-20b,What is streaming text generation?,ok,987.86,1024.06,89,138,
+2026-11-13T22:08:35.193851+00:00,openai/gpt-oss-20b,Explain speech-text modeling briefly.,ok,1022.39,1069.3,89,117,
+2026-11-13T22:08:38.163337+00:00,openai/gpt-oss-20b,What does sequence chunking mean?,ok,887.11,968.51,90,83,
+2026-11-13T22:08:41.065100+00:00,openai/gpt-oss-20b,What is model inference latency?,ok,864.01,901.0,89,98,
+2026-11-13T22:08:43.978602+00:00,openai/gpt-oss-20b,Why is first-token latency important?,ok,887.06,912.51,90,113,

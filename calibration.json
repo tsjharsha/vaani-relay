@@ -1,0 +1,37 @@
+{
+  "source": "Real Groq streaming probe",
+  "sample_count": 10,
+  "model": "openai/gpt-oss-20b",
+  "ttft_samples_ms": [
+    1001.26,
+    1120.14,
+    920.82,
+    1024.87,
+    900.85,
+    987.86,
+    1022.39,
+    887.11,
+    864.01,
+    887.06
+  ],
+  "stream_samples_ms": [
+    35.559999999999945,
+    41.52999999999997,
+    22.979999999999905,
+    43.700000000000045,
+    2.8099999999999454,
+    36.19999999999993,
+    46.90999999999997,
+    81.39999999999998,
+    36.99000000000001,
+    25.450000000000045
+  ],
+  "median_ttft_ms": 954.34,
+  "median_total_ms": 996.285,
+  "limitations": [
+    "Only short sequential prompts were sampled",
+    "No concurrent real requests were tested",
+    "Queue slowdown and errors are modeled assumptions",
+    "This sample does not establish daily or minute limits"
+  ]
+}

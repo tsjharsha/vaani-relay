@@ -1,0 +1,1 @@
+Request 94c4f5fe-96e6-4245-ad0a-0d469d940303: 6628.8 ms total. Queue waiting: 5280.9 ms. Processing before first token: 1255.1 ms. Streaming after first token: 92.8 ms. Retries: 0. This is a calibrated stand-in trace, not an internal Groq trace.

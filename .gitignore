@@ -1,0 +1,30 @@
+
+# Private API credentials
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local logs and temporary files
+*.log
+*.tmp
+
+# Local downloaded data and generated indexes
+papers/
+passages.json
+
+# Backup files
+*.bak
